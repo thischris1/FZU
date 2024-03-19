@@ -1,0 +1,54 @@
+\documentclass{article}
+
+\usepackage{a4wide}
+
+\def\mn2sb{Mn$_2$Sb}
+
+\title{The four Cu$_2$Sb-type compounds: Mn, Co and As, Sb}
+
+\author{Satya, Ondra, Christian, Karel}
+
+\date{Mar19, 2024}
+
+\begin{document}
+
+\maketitle
+
+Antiferromagnetic spintronics~\cite{Baltz:2018_a} needs thin layers...
+
+Motivated by the utility of CuMnAs~\cite{Veis:2018_a} in this field,
+we look at other materials of the same structure that could possibly
+be grown epitaxially. We begin with \mn2sb which is, in the ground
+state, ferrimagnetic. In bulk, this is a well known material.
+Interestingly, by alloying Sb with As, it transforms into an
+antiferromagnet~\cite{Shirakawa:1976_a} (which can, however, return to
+the ferrimagnetic state upon increasing temperature). Simple DFT
+yields the following energetics (in mRy/f.u.):
+
+\begin{center}
+  \begin{tabular}{c|cc}
+    & $\Delta E$ & remark \\ \hline
+    ferri & 0 \\
+    FM    & 15.4 & unconverged \\
+    AFM1  & 12.6 & ...\\
+    AFM2  && ... the same
+  \end{tabular}
+\end{center}
+
+Magnetic moments (mmoms) depend only weakly on the type of magnetic order: 
+Mn mmom at 2a Wyckoff position is smaller (about 2.9 $\mu_B$) and the other
+(at 2c) is about 3.7 $\mu_B$.
+
+\begin{thebibliography}{99}
+
+\bibitem{Baltz:2018_a} RMP 90, 015005
+
+\bibitem{Veis:2018_a} PRB 97, 125109
+
+\bibitem{Shirakawa:1976_a} Shirakawa and Ido,
+  {\tt doi: 10.1143/JPSJ.40.666}
+  
+\end{thebibliography}
+
+\end{document}
+
