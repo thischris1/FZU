@@ -1,1 +1,1 @@
-All the raw results (i.e. output of the calculations) as well as refined data should go here. Sort by material combination!
+All the refined data should go here (the raw matterial is in data!!). Sort by material combination!
