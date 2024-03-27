@@ -21,36 +21,36 @@
 
 
 
-\subsection{Calculate Ground state energies and magnetic momenta for the following 
-configurations and the LDA and GGA functionals:}
+\subsection{Calculate Ground state energies and magnetic momenta for the following
+    configurations and the LDA and GGA functionals:}
 (see Table \ref{tab:my_label})
 
 \begin{table}
     \centering
     \begin{tabular}{ccccccc}
-         &  &  LDA&  &  &  GGA& \\
-         &  Energy&  mag. Moment&    $\Delta E$&  Energy&  mag. Moments&   $\Delta E$\\
-         uu nn dd (ferrimagnetic) &  &  &  &  &  |& \\
-         ud nn ud& identical to ud nn du   &  &  &  &  & \\
-         ud nn du &  &  &  &  &  & \\
-         du nn du &  &  &  &  &  & \\
-         du  nn ud &  &  &  &  &  & \\
-        dd nn dd (ferromagnetic)&  &  &  &  &  & \\
-        uu nn uu (ferromagnetic)&  &  &  &  &  & \\
+                                 &                       & LDA         &                  &                 & GGA          &               \\
+                                 & Energy                & mag. Moment & $\Delta E$ [mRy] & Energy          & mag. Moments & $\Delta E$    \\
+        uu nn dd (ferrimagnetic) & -35164.84355323       & -2.34662    & 0                & -35203.71313403 & -2.04654     & 0             \\
+        ud nn ud                 & -35164.82028797       & 0.00006     & 23.26526         & -35203.68222677 & 13.32333     & 30.9072599994 \\
+        ud nn du                 & identical to ud nn ud &             &                  &                 &              &               \\
+        du nn ud                 &                       &             &                  &                 &              &               \\
+        du nn du                 &                       &             &                  &                 &              &               \\
+        uu nn uu (ferromagnetic) & -35164.81576070       & 12.27372    & 27.7925299961    & -35203.68793386 & -0.00006     & 25.2001699992 \\
+        dd nn dd (ferromagnetic) &                       &             &                  &                 &              &               \\
     \end{tabular}
     \caption{Overview of necessary runs. Use the (suposedly converged) k-point number extracted above. $\Delta E$ refers to the energy difference of each configuration to the ground state energy of the respective lowest configuration in energy. For GGA we expect the ferrimagnetic configuration to be the lowest in energy and $\Delta E = 15 mRydberg$ for ud nn ud (AFM 1). }
     \label{tab:my_label}
 \end{table}
 
-	 
+
 
 
 Nice sticks and balls plots with magnetic momenta depicted?
 
 \subsection{Only once (?)}
 \begin{enumerate}
-    \item DOS:	calculate DOS for GGA and LDA (ferrimagnetic) 
-	\item DOSplot for each and $\Delta$ DOS 
- \item Analyse convergence of each run and try to identify "suspicious" runs.?
- \ \end{enumerate}
+    \item DOS:	calculate DOS for GGA and LDA (ferrimagnetic)
+    \item DOSplot for each and $\Delta$ DOS
+    \item Analyse convergence of each run and try to identify "suspicious" runs.?
+          \ \end{enumerate}
 \end{document}
