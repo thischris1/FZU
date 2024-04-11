@@ -1,0 +1,10 @@
+WIEN Rechnungen
+LD-LIBRARY-pATH korrekt 
+
+MMTOT --> grep ":MMTOT"  Mn2Sb.scf | awk '{print $8}' > magnetizations.dat 
+ Total Energy --> grep ":ENE" Mn2Sb.scf | awk '{print $9}' > energies.dat
+
+
+
+/opt/intel/oneapi/tbb/latest/env/../lib/intel64/gcc4.8:/opt/intel/oneapi/mpi/latest//libfabric/lib:/opt/intel/oneapi/mpi/latest//lib/release:/opt/intel/oneapi/mpi/latest//lib:/opt/intel/oneapi/mkl/2023.1.0/lib/intel64:/opt/intel/oneapi/itac/latest/slib:/opt/intel/oneapi/ipp/latest/lib/intel64:/opt/intel/oneapi/ippcp/latest/lib/intel64:/opt/intel/oneapi/ipp/2021.8.0/lib/intel64:/opt/intel/oneapi/dnnl/latest/cpu_dpcpp_gpu_dpcpp/lib:/opt/intel/oneapi/debugger/latest/gdb/intel64/lib:/opt/intel/oneapi/debugger/latest/libipt/intel64/lib:/opt/intel/oneapi/debugger/latest/dep/lib:/opt/intel/oneapi/dal/latest/lib/intel64:/opt/intel/oneapi/compiler/latest/linux/lib:/opt/intel/oneapi/compiler/latest/linux/lib/x64:/opt/intel/oneapi/compiler/latest/linux/lib/oclfpga/host/linux64/lib:/opt/intel/oneapi/compiler/latest/linux/compiler/lib/intel64_lin:/opt/intel/oneapi/ccl/latest/lib/cpu_gpu_dpcpp:/home/cmueller/lib:/home/cmueller/WIENROOT
+

@@ -1,0 +1,11 @@
+init_lapw
+
+- bis If necessary specify switches for instgen_lapw (or press ENTER): immer c oder a
+hier: -ask
+- Magnetisierung eintragen
+
+
+ Shift of k-mesh allowed. Do you want to shift: (0=no, 1=shift)
+1
+o you want to perform a spinpolarized calculation ? (n/y)  --- y!!
+
