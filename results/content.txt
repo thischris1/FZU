@@ -1,1 +1,16 @@
-All the refined data should go here (the raw matterial is in data!!). Sort by material combination!
+All the refined data should go here (the raw material is in data!!). Sort by material combination!
+
+Mn2Sb
+=====
+
+240306: ground state (GS) is the ferrimagnet (FiM) as it should --- see PRB 45, 5395;
+energies in Ry (per unit cell, i.e. 6 atoms)
+
+-35203.71287134   # bulk FiM; see 24pcm/old.Mn2Sb
+-35203.68776927   # bulk, next higher = AFM_udnndu
+
+240410: changed lattice constants
+
+-35203.71313413   # bulk FiM, repeated; Ondra's mail #1487
+-35203.71112331   # FiM at GaAs
+-35203.70633369   # FiM an InP
