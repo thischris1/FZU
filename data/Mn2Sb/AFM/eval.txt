@@ -1,0 +1,7 @@
+cmueller@cv036:~/wien/FZU/src/trial/Mn2Sb/AFM/afmdistortplus5per$ grep ":ENE"  afmdistortplus5per.scf | tail -1
+:ENE  : *WARNING** TOTAL ENERGY IN Ry =       -35203.70363708
+cmueller@cv036:~/wien/FZU/src/trial/Mn2Sb/AFM/afmdistort$ grep ":ENE"  afmdistorts.scf | tail -1 
+:ENE  : *WARNING** TOTAL ENERGY IN Ry =       -35203.64973112
+cmueller@cv036:~/wien/FZU/src/trial/Mn2Sb/AFM$ grep ":ENE"  AFM.scf | tail -1 
+:ENE  : ********** TOTAL ENERGY IN Ry =       -35203.71194165
+
