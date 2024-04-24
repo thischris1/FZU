@@ -16,4 +16,6 @@ the energy is:
 
 We believe that these energy changes could be small rnough to support thin-film growth of Mn2Sb on these substrates.
 
+Next step would be to optimise the unit cell dimensions in respect to energy when these substrates are used and the energy change should be recalculated.
+
 Cheers, Ondřej Sedláček
