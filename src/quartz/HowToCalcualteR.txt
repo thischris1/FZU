@@ -1,0 +1,5 @@
+A very bacis script to calculate R:
+- take the output3 file
+- perform a tail -638 on this file
+- call python3 calculateR.py
+last line of the output gives R 
