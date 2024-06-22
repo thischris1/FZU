@@ -1,0 +1,105 @@
+
+
+
+
+                              --------------------------------------------------
+                                 S T R U C T U R A L   I N F O R M A T I O N
+                              --------------------------------------------------
+
+
+   SUBSTANCE                    = SiO2 for tests                                                                  
+
+   LATTICE                      = H   
+   LATTICE CONSTANTS ARE        =    9.2619260   9.2619260  10.2173710
+   NUMBER OF ATOMS IN UNITCELL  =   2
+   MODE OF CALCULATION IS       =     
+  convention (i,j)     (j)
+                      ax ay az 
+                  (i) bx by bz 
+                      cx cy cz 
+
+ ------------BR1_REC-----------
+             0.78334   0.00000   0.00000
+             0.39167   0.67839   0.00000
+             0.00000   0.00000   0.61495
+
+ ------------BR2_REC-----------
+             0.78334   0.00000   0.00000
+             0.39167   0.67839   0.00000
+             0.00000   0.00000   0.61495
+
+ ------------BR1_DIR-----------
+             8.02106  -4.63096   0.00000
+             0.00000   9.26193   0.00000
+             0.00000   0.00000  10.21737
+
+ ------------BR2_DIR-----------
+             8.02106  -4.63096   0.00000
+             0.00000   9.26193   0.00000
+             0.00000   0.00000  10.21737
+
+
+rmt(min)*kmax =    7.00000
+gmin =   10.00000
+gmax =   12.00000
+
+
+cutoff distance for superposition:     9.227
+unitcell range:    2    2    2
+
+
+ATOM =    1   ATOMNAME =Si        
+LMAX = 25  LM =   0 0  1 0  2 0  2 2 -2 2  3 0  3 2 -3 2  4 0  4 2 -4 2  4 4 -4 4  5 0  5 2 -5 2  5 4 -5 4  6 0  6 2 -6 2  6 4 -6 4  6 6 -6 6
+Charge decomposition:     ZZ           MT      tail   MT+tail
+                       10.00000   9.92398   0.07602  10.00000
+Calculated number of neighbours, nneig =    33
+:NTO001: CHARGE SPHERE  1    =     9.923980
+
+
+ATOM =    2   ATOMNAME =O         
+LMAX = 49  LM =   0 0  1 0  1 1 -1 1  2 0  2 1 -2 1  2 2 -2 2  3 0  3 1 -3 1  3 2 -3 2  3 3 -3 3  4 0  4 1 -4 1  4 2 -4 2  4 3 -4 3  4 4 -4 4  5 0  5 1 -5 1  5 2 -5 2  5 3 -5 3  5 4 -5 4  5 5 -5 5  6 0  6 1 -6 1  6 2 -6 2  6 3 -6 3  6 4 -6 4  6 5 -6 5  6 6 -6 6
+Charge decomposition:     ZZ           MT      tail   MT+tail
+                        2.00000   2.00000   0.00000   2.00000
+Calculated number of neighbours, nneig =    30
+:NTO002: CHARGE SPHERE  2    =     2.003721
+
+
+cpu  time in make_spheres:      0.22
+
+
+wall time in make_spheres:      0.22
+
+
+
+  KXMAX,KYMAX,KZMAX          18          18          20
+         3723 PLANE WAVES GENERATED (INCLUDING FORBIDDEN H,K,L)
+
+ nwav1,kn       11111        3723
+       KVEC(         1) =     0    0    0    0.000000    1
+       KVEC(         2) =     0    0   -1    0.614951    2
+       KVEC(         3) =    -1    0    0    0.783336    6
+       KVEC(         4) =    -1    0   -1    0.995881    6
+       KVEC(         5) =    -1    0    1    0.995881    6
+       KVEC(         6) =     0    0   -2    1.229903    2
+       KVEC(         7) =    -2    1    0    1.356777    3
+       KVEC(         8) =    -1   -1    0    1.356777    3
+       KVEC(         9) =    -1    0   -2    1.458175    6
+        SIZE INCLUDING STAR MEMBERS =      22209
+      3723 FOURIER COEFFICIENTS CALCULATED UP TO GMIN
+      3723 FOURIER COEFFICIENTS CALCULATED UP TO GMAX
+ LARGEST COMPONENTS:  17  17  19
+ MINIMUM FFT-mesh in LAPW0   36   36   40
+ Si                   1
+   Kappe: a,b,eps:     8.36357   0.74389   0.00002
+ O                    2
+   Kappe: a,b,eps:    16.76812   0.00000   0.00000
+
+
+: NT   : INTERSTITIAL CHARGE =     0.205656
+
+:NEC01: NUCLEAR AND ELECTRONIC CHARGE     42.00000    41.99992
+ Normalization of interstitial by   1.00038822107710     
+cpu  time in interstitial (total):      0.25
+wall time in interstitial (total):      0.25
+cpu  time in dstart:      0.47
+wall time in dstart:      0.49
