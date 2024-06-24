@@ -2,17 +2,29 @@
 
 import numpy as np
 import sys
+from collections import deque 
 file1 = '500k_gga_cut.dat'
 
-if (len(sys.argv)> 1):
-    file1 = sys.argv[1]
+if (len(sys.argv)> 2):
+    referenceFile = sys.argv[1]
+    file1 = sys.argv[2]
 
-    
+else: 
+    referenceFile = '1000k_gga_cut.dat'
+    if (len(sys.argv)>1):
+        file1 = sys.argv[1]
 
-referenceFile = '1000k_gga_cut.dat'
+# open files (only last 638 lines)
+with open(referenceFile,'rb') as f:
+          linesRef = deque(f,638)
+refData = np.genfromtxt(linesRef)
 
-refData = np.loadtxt(referenceFile)
-diffData = np.loadtxt(file1)
+
+#refData = np.loadtxt(referenceFile)
+with open(file1,'rb') as f:
+          lines = deque(f,638)
+          
+diffData = np.genfromtxt(lines)
 print (refData[0,4], diffData[0,4])
 realDiff = refData[:,4]-diffData[:,4]
 print (realDiff[0])
