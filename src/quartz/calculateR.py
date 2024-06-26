@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 import numpy as np
 import sys
@@ -14,26 +14,29 @@ else:
     if (len(sys.argv)>1):
         file1 = sys.argv[1]
 
+
 # open files (only last 638 lines)
+print ("Comparing file " + file1 + " to reference " + referenceFile)
 with open(referenceFile,'rb') as f:
           linesRef = deque(f,638)
 refData = np.genfromtxt(linesRef)
-
+print (refData[1])
 
 #refData = np.loadtxt(referenceFile)
 with open(file1,'rb') as f:
           lines = deque(f,638)
           
 diffData = np.genfromtxt(lines)
-print (refData[0,4], diffData[0,4])
-realDiff = refData[:,4]-diffData[:,4]
+# now calculate
+print (refData[0,3], diffData[0,3])
+realDiff = refData[:,3]-diffData[:,3]
 print (realDiff[0])
-imagDiff = refData[:,5]-diffData[:,5]
+imagDiff = refData[:,4]-diffData[:,4]
 
 print (imagDiff[0])
-complexRefVal = np.abs(refData[:,4])+1j*np.abs(refData[:,5])
+complexRefVal = np.abs(refData[:,3])+1j*np.abs(refData[:,4])
 print (complexRefVal[0])
-complexDiffVal = np.abs(diffData[:,4])+1j*np.abs(diffData[:,5])
+complexDiffVal = np.abs(diffData[:,3])+1j*np.abs(diffData[:,4])
 print (complexDiffVal[0])
 complexDiff = complexRefVal-complexDiffVal
 absDiff = np.abs(complexDiff)
