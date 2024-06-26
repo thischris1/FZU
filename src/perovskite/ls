@@ -1,0 +1,15 @@
+Name			converged
+
+1000k_lda.output3       y
+1000k.output3           y
+2000k.output3         	y
+4000k.output3		y
+500k.output3		y
+Ecore_10.output3	y
+Ecore_5.output3		y
+Ecore_7.output3		y
+Ecore_8.output3		y
+Ecore_9.output3		y
+rkmax10_1000_gga.output3  y
+rkmax6_1000_gga.output3  y
+rkmax8_1000_gga.output3  y
