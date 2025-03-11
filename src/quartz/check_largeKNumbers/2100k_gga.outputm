@@ -1,0 +1,53 @@
+ JATOM =            1   J =            1
+  ESX  =  -7.8369909511E+02 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -1245.15493912400       0.000000000000000E+000
+ JATOM =            1   J =            2
+  ESX  =  -5.7678717498E+01 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -2028.85403423000       0.000000000000000E+000
+ JATOM =            1   J =            3
+  ESX  =  -3.8491069116E+01 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -2086.53275172800       0.000000000000000E+000
+ JATOM =            1   J =            4
+  ESX  =  -7.6412051424E+01 OCC =   4.0000000000E+00  4.0000000000E+00
+   ESUM,EKIN =   -2125.02382084400       0.000000000000000E+000
+ JATOM =            2   J =            1
+  ESX  =  -4.4282119094E+02 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -2201.43587226800       0.000000000000000E+000
+   ESUM =   -2644.25706321200     
+ 12. ITERATION
+
+
+       DENSITY AT NUCLEUS
+        JATOM        VALENCE       SEMI-CORE          CORE           TOTAL
+:RTO001:   1        5.897720     1886.365896        0.000000     1892.263616
+:RTO002:   2       14.552106      304.029887        0.000000      318.581992
+ Allocating CLM-arrays            3  MB
+ Allocating nwav-arrays           0  MB
+ Allocating cfft-array            0  MB
+:NTO   : INTERSTITIAL CHARGE =    13.600398
+
+:NEC01: NUCLEAR AND ELECTRONIC CHARGE     90.00000    90.00062
+:OTO   : INTERSTITIAL CHARGE =    13.599255
+
+:NEC02: NUCLEAR AND ELECTRONIC CHARGE     90.00000    90.00000
+ 
+ Allocating PS:            0  MB
+ Allocating SB, Diag and YUnPred:            1  MB
+ Allocating Y,S:           7  MB
+ 
+:MIX  :   MSE1   REGULARIZATION:  4.30E-04 GREED: 0.33919  Newton 1.00  0.7028                
+:CTO   : INTERSTITIAL CHARGE =    13.599439
+
+:NEC03: NUCLEAR AND ELECTRONIC CHARGE     90.00000    90.00000
+
+:ENE  : *WARNING** TOTAL ENERGY IN Ry =        -2644.25706321
+
+  
+Time all        CPU  1.500E-01   Wall  2.200E-01 Threading   0.68 Nett  100.0 %
+Time to setup   CPU  7.000E-02   Wall  9.123E-02 Threading   0.77 Nett   41.5 %
+Time for MSEC   CPU  7.000E-02   Wall  1.083E-01 Threading   0.65 Nett   49.2 %
+Time for Hist   CPU  1.000E-02   Wall  4.336E-02 Threading   0.23 Nett   19.7 %
+Time for MSEC 1 CPU  1.000E-02   Wall  1.402E-02 Threading   0.71 Nett    6.4 %
+Time for MSEC 2 CPU  3.000E-02   Wall  3.389E-02 Threading   0.89 Nett   15.4 %
+Time for MSEC 3 CPU  1.000E-02   Wall  3.880E-03 Threading   2.58 Nett    1.8 %
+Time for output CPU  1.000E-02   Wall  2.049E-02 Threading   0.49 Nett    9.3 %

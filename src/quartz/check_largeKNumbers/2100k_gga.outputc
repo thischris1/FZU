@@ -1,0 +1,96 @@
+ NORB, SHIFT IPRINT           4  0.000000000000000E+000           0
+1                                        Si        
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/14 ET LE PAS A  0.0122
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -4.9000000E+01
+       2S             2.00         -1.2250000E+01
+       2P*            2.00         -1.2250000E+01
+       2P             4.00         -1.2250000E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Si        
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -65.3082579256422     
+ eigenwert von            2 Zustand  -4.80655979167475     
+ eigenwert von            3 Zustand  -3.20758909324075     
+ eigenwert von            4 Zustand  -3.18383547624281     
+    1   2.21E+00    7.685394E-01   -4.279735E+00   -6.490199E+00   7.40E-01  -1.00E+00    0.000000E+00    1.001641E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Si        
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+ integrand and fcore at rmt   -1.806303698886718E-003  -22.9808579958640     
+ integrand and fcore at rmt-1 -6.218180827367364E-003  -22.9823423131985     
+ integrand and fcore at rmt-2 -1.080071479973461E-002  -22.9934562539274     
+  1  1  > COR  0.2298086E-01  0.0000000E+00  0.0000000E+00 -0.2298086E-01
+  1S     -6.5308258E+01     7.2061055E-04     1.6676388E-02     1.1127602E-01     1.3639787E+01
+  2S     -4.8065598E+00     2.7750618E-01     3.8621467E-01     5.6823571E-01     2.5807005E+00
+  2P*    -3.2075891E+00     2.9954237E-01     3.6443352E-01     5.3688024E-01     2.4677930E+00
+  2P     -3.1838355E+00     3.0413332E-01     3.6734176E-01     5.3912178E-01     2.4546736E+00     4.7871414E+01
+0     ET=-2.6222341E+02     EC= 3.0731208E+02     EE= 1.0866584E+02     EX=-1.7467752E+01     EN=-6.6073357E+02
+1                                        Si        
+
+0                                               INTEGRALES DE RECOUVREMENT
+
+                                  2S   1S           0.0000000
+ NORB, SHIFT IPRINT           1  0.000000000000000E+000           0
+1                                        O         
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/ 8 ET LE PAS A  0.0124
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -1.6000000E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        O         
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -18.4508829560443     
+    1   6.89E+00    1.887410E-01   -2.885650E+01   -3.575112E+01   1.53E-01  -1.00E+00    0.000000E+00    1.005670E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        O         
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+ integrand and fcore at rmt   -9.930454373067289E-007   172.401415641788     
+ integrand and fcore at rmt-1 -1.251563539510242E-006   172.401413647129     
+ integrand and fcore at rmt-2 -1.563235317863798E-006   172.401410003689     
+ integrand and fcore at rmt   -1.540502310612919E-006   264.635542024564     
+ integrand and fcore at rmt-1 -1.944946834795616E-006   264.635538925347     
+ integrand and fcore at rmt-2 -2.451793147950399E-006   264.635533278782     
+ integrand and fcore at rmt   -8.031323150872275E-007   138.004814081787     
+ integrand and fcore at rmt-1 -1.031878096612885E-006   138.004812479513     
+ integrand and fcore at rmt-2 -1.293070021903498E-006   138.004809502442     
+  2  1  > COR  0.3446731E+00  0.2646355E+00  0.1380048E+00  0.1724014E+00
+  1S     -1.8450883E+01     7.6121080E-03     5.3830860E-02     1.9955223E-01     7.6352829E+00
+0     ET=-4.4998473E+01     EC= 7.1775543E+01     EE= 9.4498060E+00     EX=-4.0592960E+00     EN=-1.2216453E+02
