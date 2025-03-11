@@ -1,0 +1,13 @@
+ 5,'AFM.inm',       'old',    'formatted',0
+ 6,'AFM.outputm',   'unknown','formatted',0
+ 7,'AFM.inc',       'old',    'formatted',0
+10,'AFM.clmsum_old','unknown','formatted',0
+17,'AFM.clmval',    'unknown','formatted',0
+18,'AFM.clmsc',     'unknown','formatted',0
+19,'AFM.clmcor',    'unknown','formatted',0
+20,'AFM.struct',    'old',    'formatted',0
+21,'AFM.scfm',      'unknown','formatted',0
+22,'AFM.scf',       'unknown','formatted',0
+31,'AFM.broyd1',    'unknown','unformatted',164896
+32,'AFM.broyd2',    'unknown','unformatted',164896
+51,'AFM.clmsum',    'unknown','formatted',0

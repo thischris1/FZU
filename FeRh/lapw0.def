@@ -1,0 +1,27 @@
+ 3,'FeRh.rhopw',   'unknown','formatted',0
+ 4,'FeRh.inm',     'unknown','formatted',0
+ 5,'FeRh.in0',     'old',    'formatted',0
+ 6,'FeRh.output0', 'unknown','formatted',0
+ 7,'FeRh.vorbup',  'unknown','formatted',0
+ 8,'FeRh.clmsum',  'old',    'formatted',0
+ 9,'FeRh.vtotal',  'unknown','formatted',0
+10,'FeRh.vcoul',   'unknown','formatted',0
+11,'FeRh.r2v',     'unknown','formatted',0
+12,'FeRh.clmup',   'unknown','formatted',0
+13,'FeRh.clmdn',   'unknown','formatted',0
+14,'FeRh.mbjmix',     'unknown','formatted',0
+16,'FeRh.vsp','unknown','formatted',0
+17,'FeRh.vspdn',   'unknown','formatted',0
+18,'FeRh.vns','unknown','formatted',0
+19,'FeRh.vnsdn',   'unknown','formatted',0
+20,'FeRh.struct',  'old',    'formatted',0         
+21,'FeRh.scf0',    'unknown','formatted',0
+28,'FeRh.vrespsum','unknown','formatted',0
+29,'FeRh.vrespup', 'unknown','formatted',0
+30,'FeRh.vrespdn', 'unknown','formatted',0
+50,'FeRh.eeceup', 'unknown','formatted',0
+51,'FeRh.eecedn', 'unknown','formatted',0
+62,'FeRh.grr',    'unknown','formatted',0
+63,'/home/cmueller/WIENROOT/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'FeRh.r2v_nonloc',     'unknown','formatted',0
+61,'FeRh.in0abp',     'unknown','formatted',0

@@ -1,0 +1,27 @@
+ 3,'AFM-udd.rhopw',   'unknown','formatted',0
+ 4,'AFM-udd.inm',     'unknown','formatted',0
+ 5,'AFM-udd.in0',     'old',    'formatted',0
+ 6,'AFM-udd.output0', 'unknown','formatted',0
+ 7,'AFM-udd.vorbup',  'unknown','formatted',0
+ 8,'AFM-udd.clmsum',  'old',    'formatted',0
+ 9,'AFM-udd.vtotal',  'unknown','formatted',0
+10,'AFM-udd.vcoul',   'unknown','formatted',0
+11,'AFM-udd.r2v',     'unknown','formatted',0
+12,'AFM-udd.clmup',   'unknown','formatted',0
+13,'AFM-udd.clmdn',   'unknown','formatted',0
+14,'AFM-udd.mbjmix',     'unknown','formatted',0
+16,'AFM-udd.vsp','unknown','formatted',0
+17,'AFM-udd.vspdn',   'unknown','formatted',0
+18,'AFM-udd.vns','unknown','formatted',0
+19,'AFM-udd.vnsdn',   'unknown','formatted',0
+20,'AFM-udd.struct',  'old',    'formatted',0         
+21,'AFM-udd.scf0',    'unknown','formatted',0
+28,'AFM-udd.vrespsum','unknown','formatted',0
+29,'AFM-udd.vrespup', 'unknown','formatted',0
+30,'AFM-udd.vrespdn', 'unknown','formatted',0
+50,'AFM-udd.eeceup', 'unknown','formatted',0
+51,'AFM-udd.eecedn', 'unknown','formatted',0
+62,'AFM-udd.grr',    'unknown','formatted',0
+63,'/home/cmueller/WIENROOT/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'AFM-udd.r2v_nonloc',     'unknown','formatted',0
+61,'AFM-udd.in0abp',     'unknown','formatted',0

@@ -1,0 +1,27 @@
+ 3,'FFM.rhopw',   'unknown','formatted',0
+ 4,'FFM.inm',     'unknown','formatted',0
+ 5,'FFM.in0',     'old',    'formatted',0
+ 6,'FFM.output0', 'unknown','formatted',0
+ 7,'FFM.vorbup',  'unknown','formatted',0
+ 8,'FFM.clmsum',  'old',    'formatted',0
+ 9,'FFM.vtotal',  'unknown','formatted',0
+10,'FFM.vcoul',   'unknown','formatted',0
+11,'FFM.r2v',     'unknown','formatted',0
+12,'FFM.clmup',   'unknown','formatted',0
+13,'FFM.clmdn',   'unknown','formatted',0
+14,'FFM.mbjmix',     'unknown','formatted',0
+16,'FFM.vsp','unknown','formatted',0
+17,'FFM.vspdn',   'unknown','formatted',0
+18,'FFM.vns','unknown','formatted',0
+19,'FFM.vnsdn',   'unknown','formatted',0
+20,'FFM.struct',  'old',    'formatted',0         
+21,'FFM.scf0',    'unknown','formatted',0
+28,'FFM.vrespsum','unknown','formatted',0
+29,'FFM.vrespup', 'unknown','formatted',0
+30,'FFM.vrespdn', 'unknown','formatted',0
+50,'FFM.eeceup', 'unknown','formatted',0
+51,'FFM.eecedn', 'unknown','formatted',0
+62,'FFM.grr',    'unknown','formatted',0
+63,'/home/cmueller/WIENROOT/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'FFM.r2v_nonloc',     'unknown','formatted',0
+61,'FFM.in0abp',     'unknown','formatted',0

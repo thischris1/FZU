@@ -1,0 +1,12 @@
+ 4,'FFM.klist',          'unknown','formatted',0
+ 5,'FFM.in1',   'old',    'formatted',0
+ 6,'FFM.output1','unknown','formatted',0
+10,'/home/cmueller/scratch/FFM.vector', 'unknown','unformatted',9000
+11,'FFM.energy', 'unknown','formatted',0
+18,'FFM.vsp',       'old',    'formatted',0
+19,'FFM.vns',       'unknown','formatted',0
+20,'FFM.struct',         'old',    'formatted',0
+21,'FFM.scf1',   'unknown','formatted',0
+55,'FFM.vec',            'unknown','formatted',0
+71,'FFM.nsh',    'unknown','unformatted',0
+200,'/home/cmueller/scratch/FFM.storeHinv', 'replace','unformatted',9000

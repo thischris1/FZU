@@ -1,0 +1,13 @@
+ 5,'2000k.inm',       'old',    'formatted',0
+ 6,'2000k.outputm',   'unknown','formatted',0
+ 7,'2000k.inc',       'old',    'formatted',0
+10,'2000k.clmsum_old','unknown','formatted',0
+17,'2000k.clmval',    'unknown','formatted',0
+18,'2000k.clmsc',     'unknown','formatted',0
+19,'2000k.clmcor',    'unknown','formatted',0
+20,'2000k.struct',    'old',    'formatted',0
+21,'2000k.scfm',      'unknown','formatted',0
+22,'2000k.scf',       'unknown','formatted',0
+31,'2000k.broyd1',    'unknown','unformatted',164896
+32,'2000k.broyd2',    'unknown','unformatted',164896
+51,'2000k.clmsum',    'unknown','formatted',0

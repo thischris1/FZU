@@ -1,0 +1,11 @@
+ 5,'FFM.inc',         'old',    'formatted',0
+ 6,'FFM.outputc','unknown','formatted',0
+ 8,'FFM.vsp',    'old',    'formatted',0
+ 9,'FFM.clmcor', 'unknown','formatted',0
+19,'FFM.vns',    'unknown','formatted',0
+20,'FFM.struct',      'old',    'formatted',0         
+21,'FFM.scfc',   'unknown','formatted',0
+28,'FFM.vrespcor',   'unknown','formatted',0
+29,'FFM.corewf',   'unknown','formatted',0
+67,'FFM.lcorepot',   'unknown','formatted',0
+83,'FFM.rsplcore',   'unknown','formatted',0

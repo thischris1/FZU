@@ -1,0 +1,26 @@
+ 2,'AFM.nsh',    'unknown','unformatted',0
+ 3,'AFM.in1',   'unknown','formatted',0
+ 4,'AFM.inso',           'unknown','formatted',0
+ 5,'AFM.in2',   'old',    'formatted',0
+ 6,'AFM.output2','unknown','formatted',0
+ 7,'AFM.vorb','unknown','formatted',0
+ 8,'AFM.clmval','unknown','formatted',0
+10,'/home/cmueller/scratch1/AFM.vector', 'unknown','unformatted',9000
+13,'AFM.recprlist',      'unknown','unformatted',9000
+14,'AFM.kgen',        'unknown','formatted',0
+15,'AFM.tmp',       'scratch','unformatted',0
+16,'AFM.qtl',       'unknown','formatted',0
+17,'AFM.weightaver','unknown','formatted',0
+18,'AFM.vsp',       'old',    'formatted',0
+19,'AFM.vns',       'unknown','formatted',0
+20,'AFM.struct',         'old',    'formatted',0
+21,'AFM.scf2','unknown','formatted',0
+922,'AFM.rotlm',   'unknown',    'formatted',0
+23,'AFM.radwf',   'unknown',    'formatted',0
+26,'AFM.weight',   'unknown','formatted',0
+27,'AFM.weightdn',   'unknown','formatted',0
+29,'AFM.energydn','unknown','formatted',0
+30,'AFM.energy', 'unknown','formatted',0
+32,'AFM.qdmft',   'unknown',    'formatted',0
+34,'AFM.oubwin',   'unknown',    'formatted',0
+231,'AFM.dmftsym',   'unknown',    'formatted',0

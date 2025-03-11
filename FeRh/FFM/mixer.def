@@ -1,0 +1,13 @@
+ 5,'FFM.inm',       'old',    'formatted',0
+ 6,'FFM.outputm',   'unknown','formatted',0
+ 7,'FFM.inc',       'old',    'formatted',0
+10,'FFM.clmsum_old','unknown','formatted',0
+17,'FFM.clmval',    'unknown','formatted',0
+18,'FFM.clmsc',     'unknown','formatted',0
+19,'FFM.clmcor',    'unknown','formatted',0
+20,'FFM.struct',    'old',    'formatted',0
+21,'FFM.scfm',      'unknown','formatted',0
+22,'FFM.scf',       'unknown','formatted',0
+31,'FFM.broyd1',    'unknown','unformatted',164896
+32,'FFM.broyd2',    'unknown','unformatted',164896
+51,'FFM.clmsum',    'unknown','formatted',0
