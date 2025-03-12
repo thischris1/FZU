@@ -1,0 +1,11 @@
+ 5,'3000k.inc',         'old',    'formatted',0
+ 6,'3000k.outputc','unknown','formatted',0
+ 8,'3000k.vsp',    'old',    'formatted',0
+ 9,'3000k.clmcor', 'unknown','formatted',0
+19,'3000k.vns',    'unknown','formatted',0
+20,'3000k.struct',      'old',    'formatted',0         
+21,'3000k.scfc',   'unknown','formatted',0
+28,'3000k.vrespcor',   'unknown','formatted',0
+29,'3000k.corewf',   'unknown','formatted',0
+67,'3000k.lcorepot',   'unknown','formatted',0
+83,'3000k.rsplcore',   'unknown','formatted',0

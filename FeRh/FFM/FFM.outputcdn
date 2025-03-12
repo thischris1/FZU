@@ -1,0 +1,179 @@
+ NORB, SHIFT IPRINT           5  0.000000000000000E+000           0
+1                                        Fe1       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/26 ET LE PAS A  0.0138
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -1.6900000E+02
+       2S             2.00         -4.2250000E+01
+       2P*            2.00         -4.2250000E+01
+       2P             4.00         -4.2250000E+01
+       3S             2.00         -1.8777778E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Fe1       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -256.589663515259     
+ eigenwert von            2 Zustand  -29.5231780220964     
+ eigenwert von            3 Zustand  -25.3817072375881     
+ eigenwert von            4 Zustand  -24.9223661928273     
+ eigenwert von            5 Zustand  -2.82429422840720     
+    1   1.44E+01    6.176806E-01   -9.886722E+00   -2.428009E+01   8.50E-01  -1.00E+00    0.000000E+00    1.017312E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Fe1       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -2.5658966E+02     5.4317846E-05     4.5953787E-03     5.8453159E-02     2.5978730E+01
+  2S     -2.9523178E+01     1.2312686E-02     8.3944563E-02     2.6654187E-01     5.5843016E+00
+  2P*    -2.5381707E+01     9.1452107E-03     6.6948397E-02     2.3323349E-01     5.5293371E+00
+  2P     -2.4922366E+01     9.5504189E-03     6.8566007E-02     2.3626575E-01     5.4309011E+00     4.6986266E+02
+  3S     -2.8242942E+00     9.5726587E-01     7.6420027E-01     8.1299159E-01     1.7451848E+00
+0     ET=-9.8296650E+02     EC= 1.3724173E+03     EE= 2.6746767E+02     EX=-3.8484951E+01     EN=-2.5843665E+03
+1                                        Fe1       
+
+0                                               INTEGRALES DE RECOUVREMENT
+
+                                  2S   1S           0.0000000
+                                  3S   1S          -0.0000000
+                                  3S   2S           0.0000000
+ NORB, SHIFT IPRINT           5  0.000000000000000E+000           0
+1                                        Fe2       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/26 ET LE PAS A  0.0138
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -1.6900000E+02
+       2S             2.00         -4.2250000E+01
+       2P*            2.00         -4.2250000E+01
+       2P             4.00         -4.2250000E+01
+       3S             2.00         -1.8777778E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Fe2       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -256.589988430213     
+ eigenwert von            2 Zustand  -29.5234870877358     
+ eigenwert von            3 Zustand  -25.3820199611361     
+ eigenwert von            4 Zustand  -24.9226785665450     
+ eigenwert von            5 Zustand  -2.82450513290615     
+    1   1.44E+01    6.176806E-01   -9.886971E+00   -2.428008E+01   8.50E-01  -1.00E+00    0.000000E+00    1.017309E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Fe2       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -2.5658999E+02     5.4317845E-05     4.5953787E-03     5.8453159E-02     2.5978730E+01
+  2S     -2.9523487E+01     1.2312657E-02     8.3944486E-02     2.6654176E-01     5.5843038E+00
+  2P*    -2.5382020E+01     9.1451839E-03     6.6948322E-02     2.3323338E-01     5.5293390E+00
+  2P     -2.4922679E+01     9.5503900E-03     6.8565927E-02     2.3626563E-01     5.4309030E+00     4.6986300E+02
+  3S     -2.8245051E+00     9.5722251E-01     7.6418611E-01     8.1298467E-01     1.7452002E+00
+0     ET=-9.8297038E+02     EC= 1.3724143E+03     EE= 2.6746799E+02     EX=-3.8484980E+01     EN=-2.5843677E+03
+1                                        Fe2       
+
+0                                               INTEGRALES DE RECOUVREMENT
+
+                                  2S   1S           0.0000000
+                                  3S   1S          -0.0000000
+                                  3S   2S           0.0000000
+ NORB, SHIFT IPRINT          10  0.000000000000000E+000           0
+1                                        Rh1       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0000/45 ET LE PAS A  0.0159
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -5.0625000E+02
+       2S             2.00         -1.2656250E+02
+       2P*            2.00         -1.2656250E+02
+       2P             4.00         -1.2656250E+02
+       3S             2.00         -5.6250000E+01
+       3P*            2.00         -5.6250000E+01
+       3P             4.00         -5.6250000E+01
+       3D*            4.00         -5.6250000E+01
+       3D             6.00         -5.6250000E+01
+       4S             2.00         -3.1640625E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Rh1       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -845.748555092470     
+ eigenwert von            2 Zustand  -122.192428216854     
+ eigenwert von            3 Zustand  -113.098335209648     
+ eigenwert von            4 Zustand  -107.783523495694     
+ eigenwert von            5 Zustand  -21.4583173964565     
+ eigenwert von            6 Zustand  -17.8990239218479     
+ eigenwert von            7 Zustand  -16.9846984656598     
+ eigenwert von            8 Zustand  -10.6850276734771     
+ eigenwert von            9 Zustand  -10.5046895438518     
+ eigenwert von           10 Zustand  -2.54887275337787     
+    1   1.18E+01    8.509443E-01   -7.001929E+00   -1.878384E+01   9.19E-01  -1.00E+00    0.000000E+00    1.008641E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Rh1       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -8.4574856E+02     5.3659029E-06     1.4378937E-03     3.2625837E-02     4.7056759E+01
+  2S     -1.2219243E+02     9.6766743E-04     2.3680663E-02     1.4155712E-01     1.0790207E+01
+  2P*    -1.1309834E+02     6.3508369E-04     1.7769975E-02     1.2029434E-01     1.0768526E+01
+  2P     -1.0778352E+02     7.2329859E-04     1.9109933E-02     1.2516667E-01     1.0173890E+01     3.0208178E+03
+  3S     -2.1458317E+01     4.6915524E-02     1.7455610E-01     3.9039141E-01     3.7436057E+00
+  3P*    -1.7899024E+01     4.7231822E-02     1.7072461E-01     3.8302154E-01     3.6465317E+00
+  3P     -1.6984698E+01     5.2475060E-02     1.8019548E-01     3.9374283E-01     3.5028153E+00     5.2772411E+02
+  3D*    -1.0685028E+01     4.9930178E-02     1.6221854E-01     3.6828982E-01     3.3302383E+00     7.9631926E+01
+  3D     -1.0504690E+01     5.1638244E-02     1.6514425E-01     3.7176415E-01     3.2930035E+00     7.5357868E+01
+  4S     -2.5488728E+00     1.7955534E+00     1.0876789E+00     9.7917543E-01     1.4096686E+00
+0     ET=-4.2851359E+03     EC= 5.2767633E+03     EE= 1.4736864E+03     EX=-1.1784791E+02     EN=-1.0917738E+04
+1                                        Rh1       
+
+0                                               INTEGRALES DE RECOUVREMENT
+
+                                  2S   1S           0.0000000
+                                  3S   1S          -0.0000000
+                                  3S   2S           0.0000000
+                                  3P*  2P*          0.0000000
+                                  3P   2P           0.0000000
+                                  4S   1S           0.0000000
+                                  4S   2S          -0.0000000
+                                  4S   3S           0.0000000

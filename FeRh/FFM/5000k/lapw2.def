@@ -1,0 +1,26 @@
+ 2,'5000k.nsh',    'unknown','unformatted',0
+ 3,'5000k.in1',   'unknown','formatted',0
+ 4,'5000k.inso',           'unknown','formatted',0
+ 5,'5000k.in2',   'old',    'formatted',0
+ 6,'5000k.output2','unknown','formatted',0
+ 7,'5000k.vorb','unknown','formatted',0
+ 8,'5000k.clmval','unknown','formatted',0
+10,'/home/cmueller/scratch1/5000k.vector', 'unknown','unformatted',9000
+13,'5000k.recprlist',      'unknown','unformatted',9000
+14,'5000k.kgen',        'unknown','formatted',0
+15,'5000k.tmp',       'scratch','unformatted',0
+16,'5000k.qtl',       'unknown','formatted',0
+17,'5000k.weightaver','unknown','formatted',0
+18,'5000k.vsp',       'old',    'formatted',0
+19,'5000k.vns',       'unknown','formatted',0
+20,'5000k.struct',         'old',    'formatted',0
+21,'5000k.scf2','unknown','formatted',0
+922,'5000k.rotlm',   'unknown',    'formatted',0
+23,'5000k.radwf',   'unknown',    'formatted',0
+26,'5000k.weight',   'unknown','formatted',0
+27,'5000k.weightdn',   'unknown','formatted',0
+29,'5000k.energydn','unknown','formatted',0
+30,'5000k.energy', 'unknown','formatted',0
+32,'5000k.qdmft',   'unknown',    'formatted',0
+34,'5000k.oubwin',   'unknown',    'formatted',0
+231,'5000k.dmftsym',   'unknown',    'formatted',0

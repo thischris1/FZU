@@ -1,0 +1,55 @@
+:LMAX-WF:   10   Non-Spherical LMAX:   4
+
+          ATOMIC SPHERE DEPENDENT PARAMETERS FOR ATOM  Fe1       
+:e__0001: OVERALL ENERGY PARAMETER IS    0.4559
+          OVERALL BASIS SET ON ATOM IS LAPW
+:E1_0001: E( 1)=    0.4559
+             APW+lo
+:E1_0001: E( 1)=   -3.1764   E(BOTTOM)=   -3.209   E(TOP)=   -3.144  1  2   173
+             LOCAL ORBITAL
+:E2_0001: E( 2)=    0.6161   E(BOTTOM)=    0.375   E(TOP)=    0.857  0  1   130
+             APW+lo
+:E0_0001: E( 0)=    0.4559
+             APW+lo
+
+          ATOMIC SPHERE DEPENDENT PARAMETERS FOR ATOM  Fe2       
+:e__0002: OVERALL ENERGY PARAMETER IS    0.4559
+          OVERALL BASIS SET ON ATOM IS LAPW
+:E1_0002: E( 1)=    0.4559
+             APW+lo
+:E1_0002: E( 1)=   -3.4380   E(BOTTOM)=   -3.467   E(TOP)=   -3.409  1  2   133
+             LOCAL ORBITAL
+:E2_0002: E( 2)=    0.3852   E(BOTTOM)=    0.175   E(TOP)=    0.596  0  1   125
+             APW+lo
+:E0_0002: E( 0)=    0.4559
+             APW+lo
+
+          ATOMIC SPHERE DEPENDENT PARAMETERS FOR ATOM  Rh1       
+:e__0003: OVERALL ENERGY PARAMETER IS    0.4559
+          OVERALL BASIS SET ON ATOM IS LAPW
+:E1_0003: E( 1)=    0.4559
+             APW+lo
+:E1_0003: E( 1)=   -2.7868   E(BOTTOM)=   -2.880   E(TOP)=   -2.693  2  3   159
+             LOCAL ORBITAL
+:E2_0003: E( 2)=    0.5029   E(BOTTOM)=    0.070   E(TOP)=    0.936  1  2   145
+             APW+lo
+:E0_0003: E( 0)=    0.4559
+             APW+lo
+
+       K=   0.00000   0.00000   0.00000            1
+:RKM  : MATRIX SIZE   185LOs:  48  RKM= 6.64  WEIGHT= 1.00  PGR:    
+       EIGENVALUES ARE:
+:EIG00001:      -3.4317870   -3.4317870   -3.4317870   -3.1696897   -3.1696897
+:EIG00006:      -3.1696897   -2.7706133   -2.7706133   -2.7706133   -2.7635926
+:EIG00011:      -2.7635926   -2.7635926    0.0370430    0.2465531    0.2465531
+:EIG00016:       0.3322446    0.3322446    0.3322446    0.3780404    0.3780404
+:EIG00021:       0.3780404    0.4977688    0.4977688    0.5064142    0.5064142
+:EIG00026:       0.5064142    0.6510698    0.6510698    0.6979981    0.6979981
+:EIG00031:       0.6979981    0.7203680    0.7203680    1.2144483    1.2600768
+:EIG00036:       1.2600768    1.2600768    1.2863381    1.2863381    1.2863381
+:EIG00041:       1.3724394    1.3724394    1.3724394    1.4459472    1.9219610
+:EIG00046:       1.9219610    2.0309291    2.1255731    2.1255731    2.1255731
+ 
+       ********************************************************
+
+:KPT   :      NUMBER OF K-POINTS:    47

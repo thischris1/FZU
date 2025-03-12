@@ -1,0 +1,11 @@
+ 5,'1000k.inc',         'old',    'formatted',0
+ 6,'1000k.outputcup','unknown','formatted',0
+ 8,'1000k.vspup',    'old',    'formatted',0
+ 9,'1000k.clmcorup', 'unknown','formatted',0
+19,'1000k.vnsup',    'unknown','formatted',0
+20,'1000k.struct',      'old',    'formatted',0         
+21,'1000k.scfcup',   'unknown','formatted',0
+28,'1000k.vrespcorup',   'unknown','formatted',0
+29,'1000k.corewfup',   'unknown','formatted',0
+67,'1000k.lcorepotup',   'unknown','formatted',0
+83,'1000k.rsplcoreup',   'unknown','formatted',0

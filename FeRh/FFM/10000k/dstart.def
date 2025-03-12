@@ -1,0 +1,9 @@
+ 6,'10000k.outputd','unknown','formatted',0
+13,'10000k.in0_std','unknown',    'formatted',0
+14,'10000k.in0','old',    'formatted',0
+15,'10000k.in2',   'old',    'formatted',0
+17,'10000k.in1',   'old',    'formatted',0
+16,'10000k.test',        'unknown','formatted',0
+20,'10000k.struct',      'old',    'formatted',0
+81,'10000k.rsp',    'old',    'formatted',0
+51,'10000k.clmsum',    'unknown','formatted',0

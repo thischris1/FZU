@@ -1,0 +1,153 @@
+
+Calculating 5000k in /home/cmueller/wien/FZU/src/FeRh/FFM/5000k
+on cv036 with PID 1452436
+using WIEN2k_19.1 (Release 25/6/2019) in /home/cmueller/WIENROOT
+
+
+    start 	(Tue Mar 11 05:27:57 PM CET 2025) with lapw0 (40/99 to go)
+
+    cycle 1 	(Tue Mar 11 05:27:57 PM CET 2025) 	(40/99 to go)
+
+>   lapw0   	(17:27:57) 5.405u 0.044s 0:05.48 99.2%	0+0k 8+664io 0pf+0w
+>   lapw1      	(17:28:02) 6.132u 0.699s 0:06.96 97.9%	0+0k 8+25056io 0pf+0w
+>   lapw2       	(17:28:10) 7.409u 0.484s 0:07.93 99.3%	0+0k 0+1576io 0pf+0w
+>   lcore 	(17:28:18) 0.043u 0.011s 0:00.07 71.4%	0+0k 8+624io 0pf+0w
+>   mixer	(17:28:18) 0.041u 0.018s 0:00.08 62.5%	0+0k 528+1384io 0pf+0w
+:ENERGY convergence:  0 0.0001 0
+:CHARGE convergence:  0 0.0000 0
+ec cc and fc_conv 0 1 1
+
+    cycle 2 	(Tue Mar 11 05:28:18 PM CET 2025) 	(39/98 to go)
+
+>   lapw0   	(17:28:18) 5.548u 0.044s 0:05.62 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:28:24) 6.494u 0.520s 0:07.15 98.0%	0+0k 8+26592io 0pf+0w
+>   lapw2       	(17:28:31) 7.403u 0.476s 0:07.92 99.3%	0+0k 0+1640io 0pf+0w
+>   lcore 	(17:28:40) 0.031u 0.019s 0:00.07 57.1%	0+0k 0+624io 0pf+0w
+>   mixer	(17:28:40) 0.038u 0.029s 0:00.09 55.5%	0+0k 936+1384io 0pf+0w
+:ENERGY convergence:  0 0.0001 0
+:CHARGE convergence:  0 0.0000 0
+ec cc and fc_conv 0 1 1
+
+    cycle 3 	(Tue Mar 11 05:28:40 PM CET 2025) 	(38/97 to go)
+
+>   lapw0   	(17:28:40) 5.285u 0.035s 0:05.35 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:28:46) 6.307u 0.639s 0:07.09 97.7%	0+0k 8+27152io 0pf+0w
+>   lapw2       	(17:28:53) 7.232u 0.524s 0:07.79 99.4%	0+0k 0+1664io 0pf+0w
+>   lcore 	(17:29:01) 0.041u 0.022s 0:00.08 75.0%	0+0k 0+624io 0pf+0w
+>   mixer	(17:29:01) 0.035u 0.035s 0:00.10 60.0%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0219654000000000
+:CHARGE convergence:  0 0.0000 .6992909
+ec cc and fc_conv 0 1 1
+
+    cycle 4 	(Tue Mar 11 05:29:02 PM CET 2025) 	(37/96 to go)
+
+>   lapw0   	(17:29:02) 5.343u 0.049s 0:05.42 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:29:08) 6.170u 0.519s 0:06.83 97.8%	0+0k 8+27280io 0pf+0w
+>   lapw2       	(17:29:15) 7.451u 0.512s 0:08.01 99.3%	0+0k 0+1672io 0pf+0w
+>   lcore 	(17:29:23) 0.035u 0.017s 0:00.07 57.1%	0+0k 0+624io 0pf+0w
+>   mixer	(17:29:23) 0.053u 0.030s 0:00.12 66.6%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0347155050000000
+:CHARGE convergence:  0 0.0000 .6700955
+ec cc and fc_conv 0 1 1
+
+    cycle 5 	(Tue Mar 11 05:29:24 PM CET 2025) 	(36/95 to go)
+
+>   lapw0   	(17:29:24) 5.296u 0.091s 0:05.43 99.0%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:29:29) 6.263u 0.592s 0:06.98 98.1%	0+0k 8+27360io 0pf+0w
+>   lapw2       	(17:29:36) 7.435u 0.483s 0:07.95 99.4%	0+0k 0+1672io 0pf+0w
+>   lcore 	(17:29:45) 0.030u 0.021s 0:00.07 71.4%	0+0k 0+624io 0pf+0w
+>   mixer	(17:29:45) 0.067u 0.045s 0:00.14 71.4%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0713294200000000
+:CHARGE convergence:  0 0.0000 .4350351
+ec cc and fc_conv 0 1 1
+
+    cycle 6 	(Tue Mar 11 05:29:46 PM CET 2025) 	(35/94 to go)
+
+>   lapw0   	(17:29:46) 5.261u 0.048s 0:05.34 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:29:51) 6.370u 0.536s 0:07.03 98.1%	0+0k 8+27384io 0pf+0w
+>   lapw2       	(17:29:58) 7.295u 0.531s 0:07.86 99.4%	0+0k 0+1672io 0pf+0w
+>   lcore 	(17:30:06) 0.039u 0.017s 0:00.07 57.1%	0+0k 0+624io 0pf+0w
+>   mixer	(17:30:07) 0.052u 0.022s 0:00.11 63.6%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0738831050000000
+:CHARGE convergence:  0 0.0000 .2507286
+ec cc and fc_conv 0 1 1
+
+    cycle 7 	(Tue Mar 11 05:30:07 PM CET 2025) 	(34/93 to go)
+
+>   lapw0   	(17:30:07)  :WARNING: VX .gt. +1.0   1.50435630614537       5.070935325637231E-003
+5.441u 0.052s 0:05.52 99.4%	0+0k 0+672io 0pf+0w
+>   lapw1      	(17:30:13) 6.341u 0.548s 0:07.02 98.0%	0+0k 8+27080io 0pf+0w
+>   lapw2       	(17:30:20) 7.283u 0.467s 0:07.79 99.3%	0+0k 0+1656io 0pf+0w
+>   lcore 	(17:30:28) 0.039u 0.014s 0:00.07 57.1%	0+0k 0+624io 0pf+0w
+>   mixer	(17:30:28) 0.050u 0.053s 0:00.14 71.4%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0241520000000000
+:CHARGE convergence:  0 0.0000 .1350547
+ec cc and fc_conv 0 1 1
+
+    cycle 8 	(Tue Mar 11 05:30:29 PM CET 2025) 	(33/92 to go)
+
+>   lapw0   	(17:30:29) 5.322u 0.032s 0:05.38 99.4%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:30:35) 6.439u 0.576s 0:07.14 98.0%	0+0k 8+27048io 0pf+0w
+>   lapw2       	(17:30:42) 7.203u 0.508s 0:07.76 99.2%	0+0k 0+1656io 0pf+0w
+>   lcore 	(17:30:50) 0.051u 0.011s 0:00.08 75.0%	0+0k 0+624io 0pf+0w
+>   mixer	(17:30:50) 0.062u 0.033s 0:00.13 69.2%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0022640300000000
+:CHARGE convergence:  0 0.0000 .0879196
+ec cc and fc_conv 0 1 1
+
+    cycle 9 	(Tue Mar 11 05:30:51 PM CET 2025) 	(32/91 to go)
+
+>   lapw0   	(17:30:51) 5.409u 0.051s 0:05.49 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:30:57) 6.067u 0.615s 0:06.82 97.8%	0+0k 8+26816io 0pf+0w
+>   lapw2       	(17:31:04) 7.386u 0.440s 0:07.86 99.4%	0+0k 0+1648io 0pf+0w
+>   lcore 	(17:31:12) 0.034u 0.017s 0:00.07 57.1%	0+0k 0+624io 0pf+0w
+>   mixer	(17:31:12) 0.068u 0.030s 0:00.13 69.2%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0011489700000000
+:CHARGE convergence:  0 0.0000 .0453584
+ec cc and fc_conv 0 1 1
+
+    cycle 10 	(Tue Mar 11 05:31:13 PM CET 2025) 	(31/90 to go)
+
+>   lapw0   	(17:31:13) 5.346u 0.083s 0:05.47 99.0%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:31:19) 6.136u 0.611s 0:06.85 98.3%	0+0k 8+26680io 0pf+0w
+>   lapw2       	(17:31:26) 7.361u 0.484s 0:07.89 99.3%	0+0k 0+1640io 0pf+0w
+>   lcore 	(17:31:34) 0.041u 0.025s 0:00.08 75.0%	0+0k 0+624io 0pf+0w
+>   mixer	(17:31:34) 0.075u 0.042s 0:00.15 73.3%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0001568200000000
+:CHARGE convergence:  0 0.0000 .1566824
+ec cc and fc_conv 0 1 1
+
+    cycle 11 	(Tue Mar 11 05:31:35 PM CET 2025) 	(30/89 to go)
+
+>   lapw0   	(17:31:35) 5.401u 0.091s 0:05.52 99.4%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:31:40) 6.079u 0.646s 0:06.85 97.9%	0+0k 8+26680io 0pf+0w
+>   lapw2       	(17:31:48) 7.470u 0.491s 0:08.00 99.5%	0+0k 0+1640io 0pf+0w
+>   lcore 	(17:31:56) 0.030u 0.017s 0:00.06 66.6%	0+0k 0+624io 0pf+0w
+>   mixer	(17:31:56) 0.064u 0.032s 0:00.13 69.2%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0001412050000000
+:CHARGE convergence:  0 0.0000 .0832218
+ec cc and fc_conv 0 1 1
+
+    cycle 12 	(Tue Mar 11 05:31:57 PM CET 2025) 	(29/88 to go)
+
+>   lapw0   	(17:31:57) 5.321u 0.047s 0:05.40 99.2%	0+0k 0+664io 0pf+0w
+>   lapw1      	(17:32:02) 6.509u 0.571s 0:07.20 98.1%	0+0k 8+26672io 0pf+0w
+>   lapw2       	(17:32:10) 7.461u 0.507s 0:08.01 99.3%	0+0k 0+1640io 0pf+0w
+>   lcore 	(17:32:18) 0.028u 0.021s 0:00.06 66.6%	0+0k 0+624io 0pf+0w
+>   mixer	(17:32:18) 0.063u 0.022s 0:00.12 66.6%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  0 0.0001 .0001387200000000
+:CHARGE convergence:  0 0.0000 .0094452
+ec cc and fc_conv 0 1 1
+
+    cycle 13 	(Tue Mar 11 05:32:19 PM CET 2025) 	(28/87 to go)
+
+>   lapw0   	(17:32:19) 5.500u 0.084s 0:05.61 99.4%	0+0k 0+672io 0pf+0w
+>   lapw1      	(17:32:25) 7.135u 0.616s 0:07.88 98.2%	0+0k 8+26656io 0pf+0w
+>   lapw2       	(17:32:33) 8.438u 0.583s 0:09.06 99.4%	0+0k 0+1640io 0pf+0w
+>   lcore 	(17:32:42) 0.052u 0.016s 0:00.09 66.6%	0+0k 0+624io 0pf+0w
+>   mixer	(17:32:42) 0.081u 0.036s 0:00.17 64.7%	0+0k 936+1392io 0pf+0w
+:ENERGY convergence:  1 0.0001 .0000818650000000
+:CHARGE convergence:  0 0.0000 .0179671
+ec cc and fc_conv 1 1 1
+
+>   stop

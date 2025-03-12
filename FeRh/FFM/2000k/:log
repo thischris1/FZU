@@ -1,0 +1,107 @@
+>   (init_lapw) options: 
+Wed Mar 12 11:55:17 AM CET 2025> (x_lapw) nn -f 2000k
+Wed Mar 12 11:55:19 AM CET 2025> (x) nn
+Wed Mar 12 11:55:24 AM CET 2025> (x) sgroup
+Wed Mar 12 11:55:29 AM CET 2025> (x) symmetry
+Wed Mar 12 11:55:39 AM CET 2025> (x) lstart
+Wed Mar 12 11:55:58 AM CET 2025> (x) kgen
+Wed Mar 12 11:56:06 AM CET 2025> (x) dstart -p
+Wed Mar 12 11:56:15 AM CET 2025> (x) dstart -up -p
+Wed Mar 12 11:56:21 AM CET 2025> (x) dstart -dn -p
+>   (runsp_lapw) options: 
+Wed Mar 12 11:56:39 AM CET 2025> (x) lapw0
+Wed Mar 12 11:56:46 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:56:49 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:56:52 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:56:57 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:57:00 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:57:01 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:57:01 AM CET 2025> (x) mixer
+Wed Mar 12 11:57:02 AM CET 2025> (x) lapw0
+Wed Mar 12 11:57:08 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:57:12 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:57:15 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:57:19 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:57:22 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:57:23 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:57:23 AM CET 2025> (x) mixer
+Wed Mar 12 11:57:24 AM CET 2025> (x) lapw0
+Wed Mar 12 11:57:30 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:57:33 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:57:37 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:57:41 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:57:44 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:57:44 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:57:45 AM CET 2025> (x) mixer
+Wed Mar 12 11:57:45 AM CET 2025> (x) lapw0
+Wed Mar 12 11:57:51 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:57:55 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:57:58 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:58:02 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:58:06 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:58:06 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:58:06 AM CET 2025> (x) mixer
+Wed Mar 12 11:58:07 AM CET 2025> (x) lapw0
+Wed Mar 12 11:58:13 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:58:17 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:58:20 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:58:24 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:58:28 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:58:28 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:58:28 AM CET 2025> (x) mixer
+Wed Mar 12 11:58:29 AM CET 2025> (x) lapw0
+Wed Mar 12 11:58:35 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:58:38 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:58:42 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:58:46 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:58:50 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:58:50 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:58:50 AM CET 2025> (x) mixer
+Wed Mar 12 11:58:51 AM CET 2025> (x) lapw0
+Wed Mar 12 11:58:57 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:59:00 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:59:04 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:59:08 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:59:11 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:59:11 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:59:12 AM CET 2025> (x) mixer
+Wed Mar 12 11:59:13 AM CET 2025> (x) lapw0
+Wed Mar 12 11:59:19 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:59:22 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:59:26 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:59:30 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:59:33 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:59:33 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:59:33 AM CET 2025> (x) mixer
+Wed Mar 12 11:59:34 AM CET 2025> (x) lapw0
+Wed Mar 12 11:59:41 AM CET 2025> (x) lapw1 -up
+Wed Mar 12 11:59:44 AM CET 2025> (x) lapw1 -dn
+Wed Mar 12 11:59:47 AM CET 2025> (x) lapw2 -up
+Wed Mar 12 11:59:51 AM CET 2025> (x) lapw2 -dn
+Wed Mar 12 11:59:54 AM CET 2025> (x) lcore -up
+Wed Mar 12 11:59:55 AM CET 2025> (x) lcore -dn
+Wed Mar 12 11:59:55 AM CET 2025> (x) mixer
+Wed Mar 12 11:59:56 AM CET 2025> (x) lapw0
+Wed Mar 12 12:00:02 PM CET 2025> (x) lapw1 -up
+Wed Mar 12 12:00:06 PM CET 2025> (x) lapw1 -dn
+Wed Mar 12 12:00:10 PM CET 2025> (x) lapw2 -up
+Wed Mar 12 12:00:14 PM CET 2025> (x) lapw2 -dn
+Wed Mar 12 12:00:18 PM CET 2025> (x) lcore -up
+Wed Mar 12 12:00:18 PM CET 2025> (x) lcore -dn
+Wed Mar 12 12:00:19 PM CET 2025> (x) mixer
+Wed Mar 12 12:00:19 PM CET 2025> (x) lapw0
+Wed Mar 12 12:00:27 PM CET 2025> (x) lapw1 -up
+Wed Mar 12 12:00:31 PM CET 2025> (x) lapw1 -dn
+Wed Mar 12 12:00:34 PM CET 2025> (x) lapw2 -up
+Wed Mar 12 12:00:39 PM CET 2025> (x) lapw2 -dn
+Wed Mar 12 12:00:42 PM CET 2025> (x) lcore -up
+Wed Mar 12 12:00:42 PM CET 2025> (x) lcore -dn
+Wed Mar 12 12:00:43 PM CET 2025> (x) mixer
+Wed Mar 12 12:00:44 PM CET 2025> (x) lapw0
+Wed Mar 12 12:00:50 PM CET 2025> (x) lapw1 -up
+Wed Mar 12 12:00:53 PM CET 2025> (x) lapw1 -dn
+Wed Mar 12 12:00:57 PM CET 2025> (x) lapw2 -up
+Wed Mar 12 12:01:01 PM CET 2025> (x) lapw2 -dn
+Wed Mar 12 12:01:04 PM CET 2025> (x) lcore -up
+Wed Mar 12 12:01:05 PM CET 2025> (x) lcore -dn
+Wed Mar 12 12:01:05 PM CET 2025> (x) mixer

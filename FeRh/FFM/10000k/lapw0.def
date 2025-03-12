@@ -1,0 +1,27 @@
+ 3,'10000k.rhopw',   'unknown','formatted',0
+ 4,'10000k.inm',     'unknown','formatted',0
+ 5,'10000k.in0',     'old',    'formatted',0
+ 6,'10000k.output0', 'unknown','formatted',0
+ 7,'10000k.vorbup',  'unknown','formatted',0
+ 8,'10000k.clmsum',  'old',    'formatted',0
+ 9,'10000k.vtotal',  'unknown','formatted',0
+10,'10000k.vcoul',   'unknown','formatted',0
+11,'10000k.r2v',     'unknown','formatted',0
+12,'10000k.clmup',   'unknown','formatted',0
+13,'10000k.clmdn',   'unknown','formatted',0
+14,'10000k.mbjmix',     'unknown','formatted',0
+16,'10000k.vspup','unknown','formatted',0
+17,'10000k.vspdn',   'unknown','formatted',0
+18,'10000k.vnsup','unknown','formatted',0
+19,'10000k.vnsdn',   'unknown','formatted',0
+20,'10000k.struct',  'old',    'formatted',0         
+21,'10000k.scf0',    'unknown','formatted',0
+28,'10000k.vrespsum','unknown','formatted',0
+29,'10000k.vrespup', 'unknown','formatted',0
+30,'10000k.vrespdn', 'unknown','formatted',0
+50,'10000k.eeceup', 'unknown','formatted',0
+51,'10000k.eecedn', 'unknown','formatted',0
+62,'10000k.grr',    'unknown','formatted',0
+63,'/home/cmueller/WIENROOT/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'10000k.r2v_nonloc',     'unknown','formatted',0
+61,'10000k.in0abp',     'unknown','formatted',0

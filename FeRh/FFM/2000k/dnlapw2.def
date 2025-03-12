@@ -1,0 +1,26 @@
+ 2,'2000k.nshdn',    'unknown','unformatted',0
+ 3,'2000k.in1',   'unknown','formatted',0
+ 4,'2000k.inso',           'unknown','formatted',0
+ 5,'2000k.in2',   'old',    'formatted',0
+ 6,'2000k.output2dn','unknown','formatted',0
+ 7,'2000k.vorbdn','unknown','formatted',0
+ 8,'2000k.clmvaldn','unknown','formatted',0
+10,'/home/cmueller/scratch/2000k.vectordn', 'unknown','unformatted',9000
+13,'2000k.recprlist',      'unknown','unformatted',9000
+14,'2000k.kgen',        'unknown','formatted',0
+15,'2000k.tmpdn',       'scratch','unformatted',0
+16,'2000k.qtldn',       'unknown','formatted',0
+17,'2000k.weightaverdn','unknown','formatted',0
+18,'2000k.vspdn',       'old',    'formatted',0
+19,'2000k.vnsdn',       'unknown','formatted',0
+20,'2000k.struct',         'old',    'formatted',0
+21,'2000k.scf2dn','unknown','formatted',0
+922,'2000k.rotlm',   'unknown',    'formatted',0
+23,'2000k.radwfdn',   'unknown',    'formatted',0
+26,'2000k.weightdn',   'unknown','formatted',0
+27,'2000k.weightup',   'unknown','formatted',0
+29,'2000k.energyup','unknown','formatted',0
+30,'2000k.energydn', 'unknown','formatted',0
+32,'2000k.qdmftdn',   'unknown',    'formatted',0
+34,'2000k.oubwindn',   'unknown',    'formatted',0
+231,'2000k.dmftsym',   'unknown',    'formatted',0

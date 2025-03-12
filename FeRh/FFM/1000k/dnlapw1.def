@@ -1,0 +1,12 @@
+ 4,'1000k.klist',          'unknown','formatted',0
+ 5,'1000k.in1',   'old',    'formatted',0
+ 6,'1000k.output1dn','unknown','formatted',0
+10,'/home/cmueller/scratch/1000k.vectordn', 'unknown','unformatted',9000
+11,'1000k.energydn', 'unknown','formatted',0
+18,'1000k.vspdn',       'old',    'formatted',0
+19,'1000k.vnsdn',       'unknown','formatted',0
+20,'1000k.struct',         'old',    'formatted',0
+21,'1000k.scf1dn',   'unknown','formatted',0
+55,'1000k.vec',            'unknown','formatted',0
+71,'1000k.nshdn',    'unknown','unformatted',0
+200,'/home/cmueller/scratch/1000k.storeHinvdn', 'replace','unformatted',9000

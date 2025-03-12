@@ -1,0 +1,11 @@
+ 5,'2000k.inc',         'old',    'formatted',0
+ 6,'2000k.outputcdn','unknown','formatted',0
+ 8,'2000k.vspdn',    'old',    'formatted',0
+ 9,'2000k.clmcordn', 'unknown','formatted',0
+19,'2000k.vnsdn',    'unknown','formatted',0
+20,'2000k.struct',      'old',    'formatted',0         
+21,'2000k.scfcdn',   'unknown','formatted',0
+28,'2000k.vrespcordn',   'unknown','formatted',0
+29,'2000k.corewfdn',   'unknown','formatted',0
+67,'2000k.lcorepotdn',   'unknown','formatted',0
+83,'2000k.rsplcoredn',   'unknown','formatted',0
