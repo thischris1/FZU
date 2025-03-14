@@ -1,0 +1,11 @@
+Supercell Struct: Alt
+2 Fe (als einzelne Atome)
+2 Rh (als doppeltes Atom (MULT 2)
+
+neu Rhodium z Poisitonen:
+1/16 und 3/16 unterste Lage
+ncähste Lagen 
+1/16+1/4 und 3/16+1/4
+5/16 und 7/16 
+9/16 und 11/16 
+13/16 und 15/16
